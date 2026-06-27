@@ -13,6 +13,6 @@ It makes the following assumptions:
 * That GPT-5.6 Sol would not score above Claude Mythos on any tasks, unless GPT-5.4 already did
 * That METR actually performed 6 runs of each task (this is the assumption that I am least certain about)
 
-The [synthetic data herein](https://github.com/BoxoMcFoxo/metr-time-horizon-gpt-5_6-sol-simulation/blob/main/task_results_1_1_gpt_5_6_sol_simulated.yaml) can be used as a placeholder for anyone performing task-level adjustments to METR's data (such as augmented baseline times, different task grouping schema, or ablations).
+The [synthetic data herein](https://github.com/BoxoMcFoxo/metr-time-horizon-gpt-5_6-sol-simulation/blob/main/task_results_1_1_gpt_5_6_sol_simulated.yaml) can be used as a placeholder by anyone performing task-level adjustments to METR's data (such as augmented baseline times, different task grouping schema, or ablations).
 
 Should METR ever deign to release the actual figures, you should of course refer to those instead.they
