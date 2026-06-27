@@ -15,4 +15,4 @@ It makes the following assumptions:
 
 The [synthetic data herein](https://github.com/BoxoMcFoxo/metr-time-horizon-gpt-5_6-sol-simulation/blob/main/task_results_1_1_gpt_5_6_sol_simulated.yaml) can be used as a placeholder by anyone performing task-level adjustments to METR's data (such as augmented baseline times, different task grouping schema, or ablations).
 
-Should METR ever deign to release the actual figures, you should of course refer to those instead.they
+Should METR ever deign to release the actual figures, you should of course refer to those instead.
