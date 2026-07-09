@@ -2334,7 +2334,7 @@ def is_cheatable(task_id, minutes):
 # Find p50 crossing points with the three methodologies METR describes:
 # 1. standard: treat a cheating attempt as a failure
 # 2. discard: remove the runs with cheating from the dataset
-# 3. cheat_succ treat cheating attempts as legitimate successes
+# 3. cheat_succ: treat cheating attempts as legitimate successes
 def evaluate_p50_general(search_space, s_vals, c_vals, mode="standard"):
     x_exp, y_exp, w_exp = [], [], []
     for i, task in enumerate(search_space):
